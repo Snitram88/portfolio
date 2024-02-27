@@ -1,0 +1,3 @@
+[submodule "my_second_feature_submodule"]
+    path = my_second_feature_submodule
+    url = https://github.com/Snitram88/portfolio.git
