@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 [submodule "my_second_feature_submodule"]
 	path = my_second_feature_submodule
 	url = https://github.com/Snitram88/portfolio.git
 	branch = my_second_feature
+=======
+[submodule "my_second_feature_submodule"]
+    path = my_second_feature_submodule
+    url = https://github.com/Snitram88/portfolio.git
+>>>>>>> e6a43dde6f532facf52b1b5eb85f62c40ced7f03
